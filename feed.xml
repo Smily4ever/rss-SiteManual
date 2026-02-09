@@ -1,34 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Noticias de Música</title>
-    <link>https://TU_USUARIO.github.io/rss-practica/</link>
-    <description>Últimas noticias del mundo de la música</description>
-    <language>es</language>
-
-    <item>
-      <title>Taylor Swift anuncia nuevo álbum</title>
-      <link>https://TU_USUARIO.github.io/rss-practica/noticia1.html</link>
-      <description>La artista ha confirmado el lanzamiento de su próximo disco para este año.</description>
-      <author>redaccion@musica.com (Redacción Música)</author>
-      <pubDate>Mon, 03 Feb 2025 10:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Bad Bunny lidera las listas globales</title>
-      <link>https://TU_USUARIO.github.io/rss-practica/noticia2.html</link>
-      <description>El cantante puertorriqueño vuelve a dominar Spotify con su último sencillo.</description>
-      <author>redaccion@musica.com (Redacción Música)</author>
-      <pubDate>Tue, 04 Feb 2025 12:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Coldplay anuncia gira mundial</title>
-      <link>https://TU_USUARIO.github.io/rss-practica/noticia3.html</link>
-      <description>La banda británica recorrerá varios países con su nueva gira internacional.</description>
-      <author>redaccion@musica.com (Redacción Música)</author>
-      <pubDate>Wed, 05 Feb 2025 09:30:00 GMT</pubDate>
-    </item>
-
-  </channel>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Noticias de Música</title>
+<description>Noticias de Música</description>
+<pubDate>Mon, 09 Feb 2026 16:28:01 +0000</pubDate>
+<link>https://smily4ever.github.io/rss-SiteManual/</link>
+<atom:link href="https://fetchrss.com/feed/1vpU8F1ms1K61vpU7F7Gz2Et.rss" rel="self" type="application/rss+xml"/>
+<generator>https://fetchrss.com</generator>
+<image>
+<link>https://smily4ever.github.io/rss-SiteManual/</link>
+<url>https://www.google.com/s2/favicons?domain=https://smily4ever.github.io</url>
+<title>Noticias de Música</title>
+</image>
+<item>
+<title>Taylor Swift anuncia nuevo álbum</title>
+<link>https://smily4ever.github.io/rss-SiteManual/noticia1.html</link>
+<description>
+<![CDATA[ <img src="https://smily4ever.github.io/rss-SiteManual/img/Taylor.png" width="300" /><br> <br> <p>La artista ha confirmado el lanzamiento de su próximo disco para este año.</p><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=698a0b11faf06d39080821a3" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<pubDate>Mon, 09 Feb 2026 16:28:01 +0000</pubDate>
+<media:content url="https://smily4ever.github.io/rss-SiteManual/img/Taylor.png" medium="image" width="300"/>
+<guid isPermaLink="false">https://smily4ever.github.io/rss-SiteManual/noticia1.html</guid>
+</item>
+<item>
+<title>Bad Bunny lidera las listas globales</title>
+<link>https://smily4ever.github.io/rss-SiteManual/noticia2.html</link>
+<description>
+<![CDATA[ <img src="https://smily4ever.github.io/rss-SiteManual/img/badbunny.jpg" width="300" /><br> <br> <p>El cantante puertorriqueño vuelve a dominar Spotify con su último sencillo.</p><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=698a0b11faf06d39080821a3" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<pubDate>Mon, 09 Feb 2026 16:28:01 +0000</pubDate>
+<media:content url="https://smily4ever.github.io/rss-SiteManual/img/badbunny.jpg" medium="image" width="300"/>
+<guid isPermaLink="false">https://smily4ever.github.io/rss-SiteManual/noticia2.html</guid>
+</item>
+<item>
+<title>Coldplay anuncia gira mundial</title>
+<link>https://smily4ever.github.io/rss-SiteManual/noticia3.html</link>
+<description>
+<![CDATA[ <img src="https://smily4ever.github.io/rss-SiteManual/img/coldplay.jpg" width="300" /><br> <br> <p>La banda británica recorrerá varios países con su nueva gira internacional.</p><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=698a0b11faf06d39080821a3" target="_blank">FetchRSS</a>)</span> ]]>
+</description>
+<pubDate>Mon, 09 Feb 2026 16:28:01 +0000</pubDate>
+<media:content url="https://smily4ever.github.io/rss-SiteManual/img/coldplay.jpg" medium="image" width="300"/>
+<guid isPermaLink="false">https://smily4ever.github.io/rss-SiteManual/noticia3.html</guid>
+</item>
+</channel>
 </rss>
